@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1db502d1-ca95-4a6b-93e8-1d554a69802f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626054017551</updated>
       <workItem from="1626054021006" duration="1134000" />
-      <workItem from="1626055479620" duration="1873000" />
+      <workItem from="1626055479620" duration="2514000" />
     </task>
     <task id="LOCAL-00001" summary="Start a new file">
       <created>1626055646729</created>
