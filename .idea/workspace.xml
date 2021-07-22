@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1db502d1-ca95-4a6b-93e8-1d554a69802f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/MLB-EDA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/MLB-EDA-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLB-EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MLB-EDA.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
       <updated>1626054017551</updated>
       <workItem from="1626054021006" duration="1134000" />
       <workItem from="1626055479620" duration="3094000" />
+      <workItem from="1626930668020" duration="421000" />
     </task>
     <task id="LOCAL-00001" summary="Start a new file">
       <created>1626055646729</created>
